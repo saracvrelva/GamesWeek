@@ -18,6 +18,6 @@ I don’t want to tell you everything just now. Go play our game to discover all
 
 We started by designing a UML schema with all the classes, properties and methods we would need in our project. After that we separated our group into pairs, each one stayed with a responsibility (find images, create a story, start coding the classes…). We talked everyday about the progress and almost every two days we tried to reunite to discuss new features we could implement. 
 
-//Tech && Methodologies
+# Tech && Methodologies
 
 Java 7, OOP, SimpleGFX Library, IntelliJ IDEA, Apache Ant, Git, Photoshop
